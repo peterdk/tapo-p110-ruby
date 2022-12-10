@@ -1,4 +1,4 @@
-This is a Ruby implementation of PyP100, but severely limited to my usecase of querying a P110 energy monitor.
+This is a Ruby implementation of PyP100, but severely limited to my usecase of querying a TP-Link Tapo P110 energy monitor.
 
 Encryption and handshake/login works properly, so it can be easily extended based on the PyP100 code.
 
